@@ -11,4 +11,7 @@ export default {
   "unity-sdk": {
     title: "Unity SDK",
   },
+  "go-sdk": {
+    title: "Go SDK",
+  },
 };
